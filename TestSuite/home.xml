@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression" parallel="false">
+   
+   <test name="Asset Account Functionality">
+    <classes>
+    <class name="test.AssetAccountFunctionality"/>
+    </classes>
+  </test>   
+  <test name="Master Account Functionality">
+    <classes>
+    <class name="test.MasterAccountFunctionality"/>
+    </classes>
+  </test> 
+</suite>

@@ -1,2 +1,2 @@
-# ui_automation_test
-UI Automation
+# core-ui-test-automation
+Core UI test automation project
